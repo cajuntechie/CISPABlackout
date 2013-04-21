@@ -2,7 +2,7 @@ CISPA Website Blackout Page
 ===========================
 
 The HTML code in this repository was created for sites who wish to participate in the April 22nd
-site blackout in protest of the passage of CISPA by the US House of Representitives. The code contains
+site blackout in protest of the passage of CISPA by the US House of Representatives. The code contains
 no Javascript or other scripting code and will run in all browsers and on all web servers.
 
 To install the script, simply copy the code to your web server and either replace the index.html page
